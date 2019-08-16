@@ -1,6 +1,6 @@
 {
     "name": "AdBlock by Carlos E. Torres",
-    "version": "1.0",
+    "version": "1.1",
     "description": "Blocks ads by blocking domains on blacklists created by the community. Blacklist found at https://github.com/StevenBlack/hosts/.",
     "permissions": ["webRequest", "webRequestBlocking", "http://*/", "https://*/"],
     "background": {
